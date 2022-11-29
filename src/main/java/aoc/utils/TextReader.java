@@ -6,9 +6,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class TextReader {
-    public List<String> read(String input) {
+    public List<String> readString(String input) {
 
-        List<String> lines = new ArrayList<String>();
+        List<String> lines = new ArrayList<>();
 
         try {
             BufferedReader reader = new BufferedReader(new java.io.FileReader(input));
@@ -24,7 +24,29 @@ public class TextReader {
             System.out.println("Error: " + e.getMessage());
         }
 
-       return lines;
+        return lines;
+
+    }
+
+    public List<Integer> readInteger(String input) {
+
+        List<Integer> lines = new ArrayList<>();
+
+        try {
+            BufferedReader reader = new BufferedReader(new java.io.FileReader(input));
+            String line;
+
+            while((line = reader.readLine()) != null) {
+                lines.add(Integer.parseInt(line));
+            }
+
+            reader.close();
+
+        } catch (IOException e) {
+            System.out.println("Error: " + e.getMessage());
+        }
+
+        return lines;
 
     }
 
