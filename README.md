@@ -9,5 +9,6 @@
 | Name        | Source code                                                                                   | Information                                               |
 |-------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | Solar sweep | [Day 1](https://github.com/M4RtY/AdventOfCode/blob/master/src/main/java/aoc/y2k21/Day01.java) | [Day 1: Sonar Sweep](https://adventofcode.com/2021/day/1) |
+| Dive        | [Day 2](https://github.com/M4RtY/AdventOfCode/blob/master/src/main/java/aoc/y2k21/Day02.java) | [Day 2: Dive](https://adventofcode.com/2021/day/2)        |
 
 
