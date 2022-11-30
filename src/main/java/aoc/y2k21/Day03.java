@@ -2,7 +2,7 @@ package aoc.y2k21;
 
 import aoc.utils.TextReader;
 
-import java.util.List;
+import java.util.*;
 
 public class Day03 {
    private final List<String> lines;
@@ -28,9 +28,8 @@ public class Day03 {
          int ones = 0;
 
          for (String line : lines) {
-            int number = Integer.parseInt(Character.toString(line.charAt(i)));
 
-            if (number == 0) {
+            if (line.charAt(i) == '0') {
                zeros += 1;
             } else {
                ones += 1;
@@ -56,6 +55,29 @@ public class Day03 {
 
    public void part2() {
 
+      System.out.println("The life support rating is: " + Integer.parseInt(findNumber(true), 2) * Integer.parseInt(findNumber(false), 2));
+
+   }
+
+   private String findNumber(boolean positive) {
+      List<String> numbers = new ArrayList<>(lines);
+
+      for (int i = 0; i < lines.get(0).length() && numbers.size() > 1; i++) {
+
+         int count = 0;
+
+         for(String number: numbers) {
+            count += number.charAt(i) == '1' ? 1 : -1;
+         }
+
+         char target = positive == count >= 0 ? '1' : '0';
+         int targetI = i;
+
+         numbers.removeIf(s -> s.charAt(targetI) != target);
+
+      }
+
+      return numbers.get(0);
    }
 
 }
