@@ -1,4 +1,7 @@
 # Advent of Code
+
+![](https://repository-images.githubusercontent.com/572026083/4bd30f71-ef6e-42ab-aa91-63b24fa39313 "Advent Of Code 2022")
+
 > This repository contains my solution of yearly advent puzzles written in **Java** language.
 > First goal was to create some template I can use every year and also store all years together as well as learn how to code in **OOP**.
 
