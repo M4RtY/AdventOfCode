@@ -7,7 +7,7 @@ public class Day01 {
    private final List<Integer> lines;
 
    public Day01() {
-      lines = new TextReader().readInteger("src/main/resources/day01.txt");
+      lines = new TextReader().readInteger("src/main/resources/y2k21/day01.txt");
    }
 
    public void run() {

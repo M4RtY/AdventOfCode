@@ -8,7 +8,7 @@ public class Day03 {
    private final List<String> lines;
 
    public Day03() {
-      lines = new TextReader().readString("src/main/resources/day03.txt");
+      lines = new TextReader().readString("src/main/resources/y2k21/day03.txt");
    }
 
    public void run() {
