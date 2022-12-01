@@ -1,4 +1,4 @@
-import aoc.y2k22.*;
+import aoc.y2k15.*;
 
 public class Main {
     public static void main(String[] args) {

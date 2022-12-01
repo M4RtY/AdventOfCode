@@ -3,6 +3,7 @@ package aoc.y2k21;
 import aoc.utils.TextReader;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class Day04 {
@@ -18,7 +19,7 @@ public class Day04 {
    }
 
    public void part1() {
-      List<String> numbers = new ArrayList<String>();
+
    }
 
    public void part2() {

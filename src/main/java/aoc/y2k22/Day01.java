@@ -24,7 +24,7 @@ public class Day01 {
         int calorieSum = 0;
 
         for (String calorie : calories) {
-            if (calorie.length() != 0) {
+            if (!calorie.isBlank()) {
                 calorieSum += Integer.parseInt(calorie);
             } else {
                 Elves.add(calorieSum);
