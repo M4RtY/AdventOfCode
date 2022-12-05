@@ -7,10 +7,11 @@
 
 ## Year 2022
 
-| Name                | Source Code                                                                                   | Information                                                       |
-|---------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| Calorie Counting    | [Day 1](https://github.com/M4RtY/AdventOfCode/blob/master/src/main/java/aoc/y2k22/Day01.java) | [Day 1: Calorie Counting](https://adventofcode.com/2022/day/1)    |
-| Rock Paper Scissors | [Day 2](https://github.com/M4RtY/AdventOfCode/blob/master/src/main/java/aoc/y2k22/Day02.java) | [Day 2: Rock Paper Scissors](https://adventofcode.com/2022/day/2) |
+| Name                    | Source Code                                                                                   | Information                                                           |
+|-------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Calorie Counting        | [Day 1](https://github.com/M4RtY/AdventOfCode/blob/master/src/main/java/aoc/y2k22/Day01.java) | [Day 1: Calorie Counting](https://adventofcode.com/2022/day/1)        |
+| Rock Paper Scissors     | [Day 2](https://github.com/M4RtY/AdventOfCode/blob/master/src/main/java/aoc/y2k22/Day02.java) | [Day 2: Rock Paper Scissors](https://adventofcode.com/2022/day/2)     |
+| Rucksack Reorganization | [Day 3](https://github.com/M4RtY/AdventOfCode/blob/master/src/main/java/aoc/y2k22/Day03.java) | [Day 3: Rucksack Reorganization](https://adventofcode.com/2022/day/3) |
 
 
 ## Year 2021
@@ -24,8 +25,10 @@
 
 ## Year 2015
 
-| Name           | Source Code                                                                                   | Information                                                  |
-|----------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| Not Quite Lisp | [Day 1](https://github.com/M4RtY/AdventOfCode/blob/master/src/main/java/aoc/y2k15/Day01.java) | [Day 1: Not Quite Lisp](https://adventofcode.com/2015/day/1) |
+| Name                                   | Source Code                                                                                   | Information                                                                          |
+|----------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Not Quite Lisp                         | [Day 1](https://github.com/M4RtY/AdventOfCode/blob/master/src/main/java/aoc/y2k15/Day01.java) | [Day 1: Not Quite Lisp](https://adventofcode.com/2015/day/1)                         |
+| I Was Told There Would Be No Math      | [Day 2](https://github.com/M4RtY/AdventOfCode/blob/master/src/main/java/aoc/y2k15/Day02.java) | [Day 2: I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2)      |
+| Perfectly Spherical Houses in a Vacuum | [Day 3](https://github.com/M4RtY/AdventOfCode/blob/master/src/main/java/aoc/y2k15/Day03.java) | [Day 3: Perfectly Spherical Houses in a Vacuum](https://adventofcode.com/2015/day/3) |
 
 
