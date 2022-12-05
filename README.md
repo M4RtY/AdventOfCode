@@ -12,6 +12,7 @@
 | Calorie Counting        | [Day 1](https://github.com/M4RtY/AdventOfCode/blob/master/src/main/java/aoc/y2k22/Day01.java) | [Day 1: Calorie Counting](https://adventofcode.com/2022/day/1)        |
 | Rock Paper Scissors     | [Day 2](https://github.com/M4RtY/AdventOfCode/blob/master/src/main/java/aoc/y2k22/Day02.java) | [Day 2: Rock Paper Scissors](https://adventofcode.com/2022/day/2)     |
 | Rucksack Reorganization | [Day 3](https://github.com/M4RtY/AdventOfCode/blob/master/src/main/java/aoc/y2k22/Day03.java) | [Day 3: Rucksack Reorganization](https://adventofcode.com/2022/day/3) |
+| Camp Cleanup            | [Day 4](https://github.com/M4RtY/AdventOfCode/blob/master/src/main/java/aoc/y2k22/Day04.java) | [Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4)            |
 
 
 ## Year 2021
