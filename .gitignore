@@ -1,5 +1,6 @@
 # IntelliJ IDEA
 .idea/
+*.iml
 
 # Composer dependencies
 /vendor/
