@@ -8,8 +8,9 @@
 
 ## Year 2025
 
-| Name            | Source Code                                                                 | Information                                                   |
-|-----------------|-----------------------------------------------------------------------------|---------------------------------------------------------------|
-| Secret Entrance | [Day 1](https://github.com/M4RtY/AdventOfCode/blob/main/aoc/y2k25/Day1.php) | [Day 1: Secret Entrance](https://adventofcode.com/2025/day/1) |
-| Gift Shop       | [Day 2](https://github.com/M4RtY/AdventOfCode/blob/main/aoc/y2k25/Day2.php) | [Day 2: Gift Shop](https://adventofcode.com/2025/day/2)       |
-| Lobby           | [Day 3](https://github.com/M4RtY/AdventOfCode/blob/main/aoc/y2k25/Day3.php) | [Day 2: Lobby](https://adventofcode.com/2025/day/3)           |
+| Name                | Source Code                                                                 | Information                                                       |
+|---------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------|
+| Secret Entrance     | [Day 1](https://github.com/M4RtY/AdventOfCode/blob/main/aoc/y2k25/Day1.php) | [Day 1: Secret Entrance](https://adventofcode.com/2025/day/1)     |
+| Gift Shop           | [Day 2](https://github.com/M4RtY/AdventOfCode/blob/main/aoc/y2k25/Day2.php) | [Day 2: Gift Shop](https://adventofcode.com/2025/day/2)           |
+| Printing Department | [Day 3](https://github.com/M4RtY/AdventOfCode/blob/main/aoc/y2k25/Day3.php) | [Day 3: Gift Shop](https://adventofcode.com/2025/day/3)           |
+| Lobby               | [Day 4](https://github.com/M4RtY/AdventOfCode/blob/main/aoc/y2k25/Day4.php) | [Day 4: Printing Department](https://adventofcode.com/2025/day/4) |

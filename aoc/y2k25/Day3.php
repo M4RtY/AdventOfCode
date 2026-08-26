@@ -34,8 +34,6 @@ class Day3 extends Day {
             $result = max(array_slice($bank, 0, -11));
             $remaining = array_slice($bank, strpos($line, $result) + 1);
 
-            $i = 0;
-
             while (strlen($result) < 12) {
 
                 $missing = 12 - strlen($result);
