@@ -6,5 +6,5 @@ require __DIR__ . '/vendor/autoload.php';
 
 use Aoc\Aoc;
 
-$aoc = new Aoc('y2k25', 2);
+$aoc = new Aoc('y2k25', 1);
 $aoc->run();
