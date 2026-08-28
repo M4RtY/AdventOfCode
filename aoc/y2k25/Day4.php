@@ -52,7 +52,7 @@ class Day4 extends Day {
             }
         }
 
-        echo "The number of rolls of paper that can be accessed by a forklift is {$rolls}. <br />";
+        echo "The number of rolls of paper that can be accessed by a forklift is {$rolls}. <br>";
     }
 
     public function part2() {
@@ -117,7 +117,7 @@ class Day4 extends Day {
 
         echo $iter;
 
-        echo "The number of rolls of paper that can be accessed by a forklift is {$totalRolls}. <br />";
+        echo "The number of rolls of paper that can be accessed by a forklift is {$totalRolls}. <br>";
     }
 
 }

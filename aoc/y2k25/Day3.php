@@ -20,7 +20,7 @@ class Day3 extends Day {
 
         }
 
-        echo "The total output joltage is {$joltage} <br /> \n";
+        echo "The total output joltage is {$joltage} <br> \n";
     }
 
     public function part2() {
@@ -50,7 +50,7 @@ class Day3 extends Day {
 
         }
 
-        echo "The total output joltage is {$joltage} <br /> \n";
+        echo "The total output joltage is {$joltage} <br> \n";
     }
 
 }
