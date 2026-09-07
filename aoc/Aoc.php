@@ -15,7 +15,7 @@ class Aoc {
         $this->year = $year;
         $this->day = $day;
 
-        $className = "\\Aoc\\y2k25\\Day{$this->day}";
+        $className = "\\Aoc\\{$this->year}\\Day{$this->day}";
 
         if(!class_exists($className)) {
             throw new \Exception("The Advent Of Code day is not available.");
